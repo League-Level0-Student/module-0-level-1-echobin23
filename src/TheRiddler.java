@@ -29,6 +29,6 @@ public class TheRiddler {
 			JOptionPane.showMessageDialog(null, "Wrong it is lunch and dinner");
 		}
 		// 2. Make a pop up to show the score.
-
+		JOptionPane.showMessageDialog(null, "2 points");
 	}
 }
